@@ -18,9 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   ["blue", "yellow", "orange", "green","arrays!"]
-  green_color = array.pop
-  puts green_color.inspect
-  puts green_color
+.pop
 end
 
 def remove_element_from_start_of_array(array)
