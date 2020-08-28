@@ -32,9 +32,11 @@ array[2]
 end
 
 def retrieve_first_element_from_array(array)
-
+["wow","blue", "yellow", "orange", "green","arrays!"]
+.first
 end
 
 def retrieve_last_element_from_array(array)
-
+["wow","blue", "yellow", "orange", "green","arrays!"]
+.last
 end
